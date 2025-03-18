@@ -1,4 +1,4 @@
-// Defines the Loan model in MongoDB.
+// Defines the Loan model in MongoDB
 const mongoose = require('mongoose');
 
 const LoanSchema = new mongoose.Schema({

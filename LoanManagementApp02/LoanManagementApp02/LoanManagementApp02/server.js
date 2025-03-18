@@ -1,4 +1,4 @@
-// Main entry point for Express.js.
+// Main entry point for Express.js
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');

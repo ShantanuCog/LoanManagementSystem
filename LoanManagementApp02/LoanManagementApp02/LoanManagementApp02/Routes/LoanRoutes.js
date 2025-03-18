@@ -1,4 +1,4 @@
-// Defines loan-related API endpoints.
+// Defines loan-related API endpoints
 const express = require('express');
 const router = express.Router();
 const loanController = require('../Controllers/LoanController');
