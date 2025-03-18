@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2391443\\Documents\\Project-01\\LoanManagementApp02\\LoanManagementApp02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E00AF81E-3FA3-440A-8159-70C112597C4D}|LoanManagementApp02\\LoanManagementApp02.csproj|c:\\users\\2391443\\documents\\project-01\\loanmanagementapp02\\loanmanagementapp02\\loanmanagementapp02\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00AF81E-3FA3-440A-8159-70C112597C4D}|LoanManagementApp02\\LoanManagementApp02.csproj|solutionrelative:loanmanagementapp02\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00AF81E-3FA3-440A-8159-70C112597C4D}|LoanManagementApp02\\LoanManagementApp02.csproj|c:\\users\\2391443\\documents\\project-01\\loanmanagementapp02\\loanmanagementapp02\\loanmanagementapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00AF81E-3FA3-440A-8159-70C112597C4D}|LoanManagementApp02\\LoanManagementApp02.csproj|solutionrelative:loanmanagementapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\2391443\\Documents\\Project-01\\LoanManagementApp02\\LoanManagementApp02\\LoanManagementApp02\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LoanManagementApp02\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\2391443\\Documents\\Project-01\\LoanManagementApp02\\LoanManagementApp02\\LoanManagementApp02\\WeatherForecast.cs",
+              "RelativeToolTip": "LoanManagementApp02\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:28:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2391443\\Documents\\Project-01\\LoanManagementApp02\\LoanManagementApp02\\LoanManagementApp02\\Program.cs",
+              "RelativeDocumentMoniker": "LoanManagementApp02\\Program.cs",
+              "ToolTip": "C:\\Users\\2391443\\Documents\\Project-01\\LoanManagementApp02\\LoanManagementApp02\\LoanManagementApp02\\Program.cs",
+              "RelativeToolTip": "LoanManagementApp02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:28:08.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
