@@ -1,4 +1,4 @@
-// Loan management logic for applying, approving, and rejecting loans
+// Loan management logic for applying, approving, and rejecting loans.
 const Loan = require('../Models/Loan');
 
 // Apply for a Loan
